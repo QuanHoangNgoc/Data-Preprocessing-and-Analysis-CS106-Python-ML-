@@ -50,7 +50,7 @@ Throughout this project, we reinforced key concepts:
 - The impact of proper data cleaning on machine learning model accuracy.
 
 ## 🏆 Achievements
-- Cleaned and prepared datasets with a significant improvement in quality.
+- Cleaned and prepared datasets with a significant quality improvement.
 - Developed a series of reusable preprocessing functions for various types of datasets.
 - Created meaningful visualizations that enhance understanding of data trends.
 
@@ -58,9 +58,9 @@ Throughout this project, we reinforced key concepts:
 Contributions are welcome! If you found this project helpful, please give it a ⭐ to show your support and help others discover it.
 
 ## ✨ Author
-This project was created by [Your Name]. You can follow my work and connect with me on GitHub.
+This project was created by [Quan Hoang Ngoc]. You can follow my work and connect with me on GitHub.
 
 [![GitHub](https://img.shields.io/github/followers/quanhoangngoc?style=social)](https://github.com/quanhoangngoc)
 
 ## ❤️ Donate
-If you enjoyed this project, consider supporting me by starring the repository!
+If you enjoyed this project, consider supporting me by starring in the repository!
