@@ -41,6 +41,7 @@ This project is structured in Jupyter Notebooks and implemented using Python and
 
 ### Results & Visualizations
 The repository also includes visualizations such as histograms, box plots, and violin plots to explore data distributions. This provides clear insights into data patterns before model training.
+![image](https://github.com/user-attachments/assets/0f317675-8f05-4840-a00f-16f8a0c10db7)
 
 ## 📚 What did we learn?
 Throughout this project, we reinforced key concepts:
