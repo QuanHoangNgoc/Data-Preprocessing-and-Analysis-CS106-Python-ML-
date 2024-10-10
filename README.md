@@ -60,7 +60,7 @@ Contributions are welcome! If you found this project helpful, please give it a �
 ## ✨ Author
 This project was created by [Your Name]. You can follow my work and connect with me on GitHub.
 
-[![GitHub](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/github/followers/quanhoangngoc?style=social)](https://github.com/quanhoangngoc)
 
 ## ❤️ Donate
 If you enjoyed this project, consider supporting me by starring the repository!
